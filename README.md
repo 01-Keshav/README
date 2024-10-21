@@ -1,4 +1,3 @@
-[![MasterHead] ("https://static.vecteezy.com/system/resources/previews/000/542/408/non_2x/vector-cyber-security-web-banner-template.jpg")
 <h1 align="center">𝑯𝒊 👋 𝑰'𝒎 𝑫𝒂𝒏𝒈𝒆𝒓</h1>
 <h3 align="center"> </h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/MWO6C6w3YwMAAAAC/hacker.gif"> 
