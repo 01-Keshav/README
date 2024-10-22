@@ -1,6 +1,9 @@
+<img align="center" alt="Coding" width="400"
+src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGhzMm9xZzN6dDBkZnBxcHI1Mm14eWZsbXl3a2s4dXJwc2FoYzh2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif">
+
 <h1 align="center">Hi 👋, I'm Keshav Shrivastava</h1>
 <h3 align="center">A passionate bug hunter from India</h3>
-<img align= right alt= coding width= 400 src= "https://media.tenor.com/mwo6c6w3ywmaaaac/hacker.gif">
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHNlbW9raHJ2cjhha3BiMHd5MmVrYWJvczRtZWIweGxkNHozMmlmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zyFcsWHX2fdpyb5SBi/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=01-keshav&label=Profile%20views&color=0e75b6&style=flat" alt="01-keshav" /> </p>
 
