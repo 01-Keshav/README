@@ -1,7 +1,9 @@
-[![MasterHead] ("https://static.vecteezy.com/system/resources/previews/000/542/408/non_2x/vector-cyber-security-web-banner-template.jpg")
-<h1 align="center">𝑯𝒊 👋 𝑰'𝒎 𝑫𝒂𝒏𝒈𝒆𝒓</h1>
-<h3 align="center"> </h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/MWO6C6w3YwMAAAAC/hacker.gif"> 
+<img align="center" alt="Coding" width="400"
+src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGhzMm9xZzN6dDBkZnBxcHI1Mm14eWZsbXl3a2s4dXJwc2FoYzh2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif">
+
+<h1 align="center">Hi 👋, I'm Keshav Shrivastava</h1>
+<h3 align="center">A passionate bug hunter from India</h3>
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHNlbW9raHJ2cjhha3BiMHd5MmVrYWJvczRtZWIweGxkNHozMmlmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zyFcsWHX2fdpyb5SBi/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=01-keshav&label=Profile%20views&color=0e75b6&style=flat" alt="01-keshav" /> </p>
 
