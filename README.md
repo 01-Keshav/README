@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="300"
+<img align="right" alt="Coding" width="400"
 src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGhzMm9xZzN6dDBkZnBxcHI1Mm14eWZsbXl3a2s4dXJwc2FoYzh2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif">
 
 <h1 align="center">Hi 👋, I'm Keshav Shrivastava</h1>
