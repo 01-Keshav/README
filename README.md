@@ -1,6 +1,6 @@
 <h1 align="center">𝑯𝒊 👋 𝑰'𝒎 𝑫𝒂𝒏𝒈𝒆𝒓</h1>
 <h3 align="center"> </h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/MWO6C6w3YwMAAAAC/hacker.gif"> 
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3J1bHUwZ240dDA4NHBha3U0emJ1endwb3lqbDU1MG52bHo3ZHd0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnxpQ3ghPiB2Hp6/giphy.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-danger&label=Profile%20views&color=0e75b6&style=flat" alt="its-danger" /> </p> 
 
