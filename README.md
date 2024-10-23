@@ -5,15 +5,16 @@ src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGhzMm9xZzN6dDBkZnBxcHI1Mm14eW
 <h3 align="center">A passionate bug hunter from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHNlbW9raHJ2cjhha3BiMHd5MmVrYWJvczRtZWIweGxkNHozMmlmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zyFcsWHX2fdpyb5SBi/giphy.gif">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=01-keshav&label=Profile%20views&color=0e75b6&style=flat" alt="01-keshav" /> </p>
 
-- 🔭 I’m currently working on **Vulnerability finder for automation**
+- 🔭 I’m currently working on [Vulnerability finding tools for automation](https://github.com/01-Keshav/README.git)
 
 - 🌱 I’m currently learning **Vulnerability assessment**
 
-- 👯 I’m looking to collaborate on **Ai-chatbot for discord**
+- 👯 I’m looking to collaborate on [Ai-chatbot for discord](https://github.com/01-Keshav/README.git)
 
-- 🤝 I’m looking for help with **Exploiting framework**
+- 🤝 I’m looking for help with [Exploiting framework](https://github.com/01-Keshav/README.git)
 
 - 💬 Ask me about **Linux , network security**
 
@@ -25,6 +26,7 @@ src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGhzMm9xZzN6dDBkZnBxcHI1Mm14eW
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/keshav-malware-analyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/keshav-malware-analyst" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/0.1.keshav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/0.1.keshav/" height="30" width="40" /></a>
+<a href="https://discord.gg/786844091124154418" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="786844091124154418" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
